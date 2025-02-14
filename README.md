@@ -39,7 +39,7 @@ CausalBootstrap(Y = test_pair$Y, Z = test_pair$Z, M = test_pair$M, pair = TRUE)
 
 The first dataset `test_stratified` comes from a stratified randomized
 experiment (McClure et al., 2014) and the second dataset `test_pair`
-comes from a paired randomized experiment (King et al., 2000).
+comes from a paired randomized experiment (King et al., 2007).
 
 ## Reference
 
