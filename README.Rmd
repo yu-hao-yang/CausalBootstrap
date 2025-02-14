@@ -33,7 +33,7 @@ devtools::install_github("yu-hao-yang/CausalBootstrap")
 
 ## Example
 
-Here’s a simple example of how to use the \texttt{CausalBootstrap} function:
+Here’s a simple example of how to use the `CausalBootstrap` function:
 
 ```{R eval=F}
 library(CausalBootstrap)

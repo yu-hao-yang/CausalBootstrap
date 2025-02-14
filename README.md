@@ -25,7 +25,7 @@ devtools::install_github("yu-hao-yang/CausalBootstrap")
 
 ## Example
 
-Here’s a simple example of how to use the function:
+Here’s a simple example of how to use the `CausalBootstrap` function:
 
 ``` r
 library(CausalBootstrap)
