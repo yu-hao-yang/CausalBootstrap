@@ -1,12 +1,15 @@
 Package: CausalBootstrap
-Title: What the Package Does (One Line, Title Case)
+Title: Sharp Variance Estimator and Causal Bootstrap in Stratified Randomized Experiments
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Authors@R: c(
+    person("Haoyang", "Yu", email = "yu-haoyang@outlook.com", role = c("aut", "cre")),
+    person("Ke", "Zhu", email = "kezhu0828@gmail.com", role = "aut"),
+    person("Hanzhong", "Liu", email = "lhz2016@tsinghua.edu.cn", role = "aut"))
+Description: The CausalBootstrap function implements a causal inference approach to estimate treatment effects using a bootstrap method. This function is designed to analyze data structured by grouping variables (M) and treatment indicators (Z), allowing for the estimation of causal effects by employing bootstrapping techniques.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
