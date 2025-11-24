@@ -8,7 +8,8 @@
 **CausalBootstrap** is an R package designed for causal inference in
 stratified randomized experiments. It implements a sharp variance
 estimator and a bootstrap method to estimate treatment effects from data
-organized by grouping variables ($M$) and treatment indicators ($Z$).
+organized by grouping variables ($`M`$) and treatment indicators
+($`Z`$).
 
 ## Installation
 
@@ -43,9 +44,9 @@ comes from a paired randomized experiment (King et al., 2007).
 
 ## Reference
 
-Yu, H., Zhu, K., & Liu, H. (2025+). Sharp variance estimator and causal
-bootstrap in stratified randomized experiments. arXiv preprint
-[arXiv:2401.16667](https://arxiv.org/abs/2401.16667).
+Yu, H., Zhu, K., & Liu, H. (2025). Sharp variance estimator and causal
+bootstrap in stratified randomized experiments. Statistics in Medicine,
+44(13-14): e70139.
 
 McClure, E. A., Sonne, S. C., Winhusen, T., Carroll, K. M., Ghitza, U.
 E., McRae-Clark, A. L., … & Gray, K. M. (2014). Achieving Cannabis

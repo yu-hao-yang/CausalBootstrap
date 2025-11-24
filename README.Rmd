@@ -49,7 +49,7 @@ The first dataset `test_stratified` comes from a stratified randomized experimen
 
 ## Reference
 
-Yu, H., Zhu, K., & Liu, H. (2025+). Sharp variance estimator and causal bootstrap in stratified randomized experiments. arXiv preprint [arXiv:2401.16667](https://arxiv.org/abs/2401.16667).
+Yu, H., Zhu, K., & Liu, H. (2025). Sharp variance estimator and causal bootstrap in stratified randomized experiments. Statistics in Medicine, 44(13-14): e70139.
 
 McClure, E. A., Sonne, S. C., Winhusen, T., Carroll, K. M., Ghitza, U. E., McRae-Clark, A. L., ... & Gray, K. M. (2014). Achieving Cannabis Cessation—Evaluating N-acetylcysteine Treatment (ACCENT): Design and implementation of a multi-site, randomized controlled study in the National Institute on Drug Abuse Clinical Trials Network. Contemporary clinical trials, 39(2), 211-223.
 
